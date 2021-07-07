@@ -66,7 +66,7 @@ React files
 ## Contact
 
 
-Koral Yuster - koralyuster199@gmail.com
+Koral Yuster - koralyuster1995@gmail.com
 
 Linkedin Link: [https://www.linkedin.com/in/koralyuster/](https://www.linkedin.com/in/koralyuster/)
 
