@@ -12,7 +12,7 @@ Recipes website project
 
 What does the project include,
 * International Recipes Site, recipes written by users from all over the world.
-* Registration, login, logut options.
+* Registration, login, logout options.
 * All users of the site can view the recipes.
 * Only registered users can add, edit and delete recipes.
 * Only registered users can add a favorite recipe to favorites but also remove a recipe from favorites.
