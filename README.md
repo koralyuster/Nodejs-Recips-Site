@@ -17,10 +17,10 @@ What does the project include,
 * Only registered users can add, edit and delete recipes.
 * Only registered users can add a favorite recipe to favorites but also remove a recipe from favorites.
 
-# React applicatiom block diagram
+### React applicatiom block diagram
 ![image](https://user-images.githubusercontent.com/70564042/124884251-c5d70600-dfda-11eb-8e4d-dc58a35ec431.png)
 
-# Node.js & MongoDB
+### Node.js & MongoDB
 ![image](https://user-images.githubusercontent.com/70564042/124884434-ee5f0000-dfda-11eb-9ff1-83605d25c103.png)
 
 
