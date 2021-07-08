@@ -1,4 +1,4 @@
-# Recips Site : client side React |  server side Node.js
+# Recipes Site : client side React |  server side Node.js
  
 Recipes website project
 
