@@ -16,7 +16,7 @@ What does the project include,
 * All users of the site can view the recipes.
 * Only registered users can add, edit and delete recipes.
 * Only registered users can add a favorite recipe to favorites but also remove a recipe from favorites.
-* 
+
 ![image](https://user-images.githubusercontent.com/70564042/124883664-3cbfcf00-dfda-11eb-8566-781abf68a8d0.png)
 
 ![image](https://user-images.githubusercontent.com/70564042/124883234-ca4eef00-dfd9-11eb-8847-80795c1fa017.png)
