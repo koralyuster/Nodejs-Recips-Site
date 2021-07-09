@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/yammis', {useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect('mongodb+srv://koraly:K0543067488@cluster0.d8bde.mongodb.net/yammis', {useNewUrlParser: true, useUnifiedTopology: true});
 
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));

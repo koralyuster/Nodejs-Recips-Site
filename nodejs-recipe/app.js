@@ -16,5 +16,5 @@ routerInit(app);
 
 //because react work on port 3000 we change the port of the nodejs server to 3400
 const server = http.createServer(app);
-let port = process.env.PORT || "3600";
+let port = process.env.PORT || 5000;
 server.listen(port);

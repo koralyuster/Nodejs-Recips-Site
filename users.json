@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "60cb2f202c8f4e496fb910db"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T11:16:33.925Z"
+  },
+  "name": "Yarden",
+  "email": "yarden@gmail.com",
+  "password": "$2b$10$.GbWSlfQRqg0DV8K7fSuXuaOJbxjEG3bDGjsZpH4z5s1oUNmhNygK",
+  "country": "Israel",
+  "__v": 0,
+  "recipes": [
+    "60d074c1031354d8585afafb"
+  ]
+},{
+  "_id": {
+    "$oid": "60cb2f352c8f4e496fb910dd"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T11:16:33.925Z"
+  },
+  "name": "Niv",
+  "email": "niv@gmail.com",
+  "password": "$2b$10$cpNNLepLMl4eXjfnBJd8/OQi.GxtsQG3BKV7BUVA9g7hLxgYuNtX.",
+  "country": "Israel",
+  "__v": 0,
+  "recipes": [
+    "60cb54471739d952a82db85e",
+    "60d074c1031354d8585afafb"
+  ]
+},{
+  "_id": {
+    "$oid": "60cb2f3c2c8f4e496fb910df"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T11:16:33.925Z"
+  },
+  "name": "Bar",
+  "email": "bar@gmail.com",
+  "password": "$2b$10$HoXaMlpH13qM.i5CHmvi2eLbM0HKcu5j0tTo3GmXRc92cOqNXtVXG",
+  "country": "Israel",
+  "__v": 0,
+  "recipes": [
+    "60e2d0fd1a6548727843d398",
+    "60d07e5c580247ddb0d0a4d2",
+    "60da0a60d70c96cbb2bf77b0"
+  ]
+},{
+  "_id": {
+    "$oid": "60cb2fd775482349bb9bef2b"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T11:19:39.018Z"
+  },
+  "name": "Koral",
+  "email": "koral@gmail.com",
+  "password": "$2b$10$IvI1TWFsib3yn0nFV9yRQOC2Qtl/R//peTBDxnYDrSpi.ToqgAsPe",
+  "country": "Israel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0713e031354d8585afae5"
+  },
+  "createdAt": {
+    "$date": "2021-06-21T10:59:24.943Z"
+  },
+  "recipes": [],
+  "name": "Julia",
+  "email": "julia@gmail.com",
+  "password": "$2b$10$bWSp0BH8wIV7ufJnKySGtuFQAJwa/eRFB/Evqiy6FGhrimfF1ufc.",
+  "country": "Italy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d07157031354d8585afae7"
+  },
+  "createdAt": {
+    "$date": "2021-06-21T10:59:24.943Z"
+  },
+  "recipes": [],
+  "name": "Alex",
+  "email": "alex@gmail.com",
+  "password": "$2b$10$mmZ989/yhG2DrPwJLTd5AOnnjre7gEAoaJ7ZRDAboME3BkX.L6bCS",
+  "country": "Holland",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0716c031354d8585afae9"
+  },
+  "createdAt": {
+    "$date": "2021-06-21T10:59:24.943Z"
+  },
+  "recipes": [],
+  "name": "Jasmin",
+  "email": "jasmin@gmail.com",
+  "password": "$2b$10$zNvPIrzVdtANqXXgL5EdfOSF2Xp7V5kcyOe6n6vIQL2VgT4H.bjT2",
+  "country": "India",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d071da031354d8585afaeb"
+  },
+  "createdAt": {
+    "$date": "2021-06-21T10:59:24.943Z"
+  },
+  "recipes": [
+    "60cb54471739d952a82db85e"
+  ],
+  "name": "Maria",
+  "email": "maria@gmail.com",
+  "password": "$2b$10$1GPdncGX7XbxXKjfzUMtbuwU.IAxFpJ8e.pcZTVBcZ3qa4o5VLHta",
+  "country": "Germany",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0723c031354d8585afaed"
+  },
+  "createdAt": {
+    "$date": "2021-06-21T10:59:24.943Z"
+  },
+  "recipes": [],
+  "name": "Chong",
+  "email": "chong@gmail.com",
+  "password": "$2b$10$A17cIcHJHo604Vaq0gq4n.e.oUJwZMAcd8Zu5NzrJ0KD44yMSoWcu",
+  "country": "Japan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d0729f031354d8585afaef"
+  },
+  "createdAt": {
+    "$date": "2021-06-21T10:59:24.943Z"
+  },
+  "recipes": [],
+  "name": "Gabriella",
+  "email": "gabriella@gmail.com",
+  "password": "$2b$10$Ra6DyEQZaqUsu7gZ0AOAOOt1SRN2Fz/PsnkOd39KqvAjk2gAg465i",
+  "country": "Mexico",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d83472e2e43d7cfc156204"
+  },
+  "createdAt": {
+    "$date": "2021-06-27T05:30:25.811Z"
+  },
+  "recipes": [],
+  "name": "lior",
+  "country": "israel",
+  "email": "lior@gmail.com",
+  "password": "$2b$10$idi6rLjezlt6BexEBX9HoOv00ZOMyzf9Blx5udqYhhSAjWe86xEkO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e2e08e0b481e0552fae3d5"
+  },
+  "createdAt": {
+    "$date": "2021-07-05T10:35:49.281Z"
+  },
+  "recipes": [],
+  "name": "check4",
+  "country": "Israel",
+  "email": "check4@gmail.com",
+  "password": "$2b$10$tb7MiVr9pJ3BpJk8rMlCAOhcnXu2QIWHktYFESBtMXofeGLUOqXFC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e2e0b651bc89056c08cbc2"
+  },
+  "createdAt": {
+    "$date": "2021-07-05T10:36:14.674Z"
+  },
+  "recipes": [],
+  "name": "check5",
+  "country": "israel",
+  "email": "check5@gmail.com",
+  "password": "$2b$10$/szl9wbIE9JWE9NHHd00kef0356u1bj6M7JaZpqBxDAl04Nz51lsO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e5eea6e8587417289c400e"
+  },
+  "createdAt": {
+    "$date": "2021-07-07T17:56:09.603Z"
+  },
+  "recipes": [
+    "60d07e5c580247ddb0d0a4d2",
+    "60d074c1031354d8585afafb",
+    "60e2cfaa1a6548727843d373",
+    "60e2d0fd1a6548727843d398",
+    "60cb54471739d952a82db85e"
+  ],
+  "name": "demo",
+  "country": "Israel",
+  "email": "demo@gmail.com",
+  "password": "$2b$10$P0S20v7IbRFu07WViyCFW.eRKfT.PJwpR1MeynnMTLgBsbAXhAntu",
+  "__v": 0
+}]
