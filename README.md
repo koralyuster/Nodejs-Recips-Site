@@ -9,13 +9,27 @@ Recipes website project
 ## About The Project
 
 
-
 What does the project include,
 * International Recipes Site, recipes written by users from all over the world.
 * Registration, login, logout options.
 * All users of the site can view the recipes.
 * Only registered users can add, edit and delete recipes.
 * Only registered users can add a favorite recipe to favorites but also remove a recipe from favorites.
+
+### Demo website
+* CLICK HERE : https://recipes-site-project.netlify.app/
+
+* heroku: node.js- https://node-recipes-app.herokuapp.com/
+
+<!-- USAGE EXAMPLES -->
+## Sample User Login
+
+There is a user ready for those who do not want to register 🙂
+
+```sh
+    email: demo@gmail.com
+    password: 12345
+   ```
 
 ### Client side structure
 ![image](https://user-images.githubusercontent.com/70564042/124884251-c5d70600-dfda-11eb-8e4d-dc58a35ec431.png)
@@ -57,15 +71,6 @@ React files
 * First start react
    ```sh
     npm start 
-   ```
-
-
-<!-- USAGE EXAMPLES -->
-## Sample User Login
-
-```sh
-    email: demo@gmail.com
-    password: 12345
    ```
 
 
